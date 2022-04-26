@@ -1,0 +1,35 @@
+body
+{
+    background-color: #d3bfc5;
+    text-align: center;
+    color: white;
+        
+}
+
+.menu { 
+    display:flex;
+    justify-content: space-around;
+    border: 5px solid #9c6f7c;
+    padding: 20px;
+    color: #573941;
+    
+}
+
+
+
+.photos { 
+    display: flex; 
+    justify-content: space-around;
+   height:350px;
+}
+
+.cards { 
+    display: flex; 
+    justify-content: space-around;
+   height:180px;
+}
+
+
+
+h3 {color:#9c6f7c;}
+
